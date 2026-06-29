@@ -1,4 +1,4 @@
-# 
+# 即时 AI leaf disease detection system 模板。集成 情感分析 和 模型训练，性能最大化。
 
 
 
